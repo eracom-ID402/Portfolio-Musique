@@ -11,6 +11,10 @@ header {
   background-color: rgb(200, 125, 255);
 }
 
+.titre {
+  flex-grow: 1;
+}
+
 .titre h1 {
   text-align: center;
   margin-left: auto;
